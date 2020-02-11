@@ -31,5 +31,6 @@ dependencies {
     implementation "androidx.camera:camera-camera2:${cameraxVersion}"
 
     implementation 'com.quickbirdstudios:opencv:3.4.1'
+    implementation 'com.google.android.material:material:1.0.0'
 
 }
